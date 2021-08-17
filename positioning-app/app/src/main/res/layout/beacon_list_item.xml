@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/Theme.PositioningApp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/bluetooth_name"
+            android:text="@string/label_name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bluetooth_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="BR532388" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/bluetooth_address"
+            android:text="@string/label_address"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bluetooth_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="20:18:FF:00:40:07" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/uuid"
+            android:text="@string/label_uuid"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/uuid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="fda50693-a4e2-4fb1-afcf-c6eb07647825" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/major"
+            android:text="@string/label_major"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/major"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/minor"
+            android:text="@string/label_minor"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/minor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="7" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/rssi"
+            android:text="@string/label_rssi"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rssi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="-51" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/bluetooth_name"
+            android:text="@string/label_tx_power"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tx_power"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="-59" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/distance"
+            android:text="@string/label_distance"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="0.2758074291187452" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/distance_custom"
+            android:text="@string/label_distance_custom"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/distance_custom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="0.2758074291187452" />
+    </LinearLayout>
+
+</LinearLayout>

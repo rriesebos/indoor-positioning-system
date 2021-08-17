@@ -1,0 +1,42 @@
+version: '3.9'
+
+services:
+  express-server:
+    build:
+      context: ./positioning-server
+      dockerfile: Dockerfile
+      target: development
+    container_name: express-server
+    restart: always
+    volumes:
+      - ./positioning-server:/app
+      - ./wait-for-it.sh:/wait-for-it.sh
+    ports: 
+      - ${EXPRESS_PORT}:${EXPRESS_PORT}
+    environment:
+      NODE_ENV: development
+      DEBUG: positioning-server:*
+      CASSANDRA_DATACENTER: datacenter1
+    depends_on:
+      - cassandra
+      - mongodb
+    command: ["/wait-for-it.sh", "cassandra:${CASSANDRA_PORT}", "--strict", "--", "npm", "run", "start:dev"]
+
+  cassandra:
+    image: cassandra
+    container_name: cassandra
+    restart: always
+    volumes:
+      - ./cassandra:/var/lib/cassandra
+    ports:
+      - ${CASSANDRA_PORT}:${CASSANDRA_PORT}
+    command: "/var/lib/cassandra/cassandra-init.sh"
+
+  mongodb:
+    image: mongo
+    container_name: mongodb
+    restart: always
+    volumes:
+      - ./mongodb:/data/db
+    ports:
+      - ${MONGODB_PORT}:${MONGODB_PORT}

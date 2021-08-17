@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.positioning.PositioningFragment"
+    android:id="@+id/positioning_root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp">
+
+    <TextView
+        android:id="@+id/positioning_error_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:lines="2"
+        android:textAlignment="center"
+        android:textColor="#F44336"
+        android:textSize="16sp"
+        android:visibility="gone"
+        tools:visibility="visible"
+        tools:text="Could not retrieve beacon coordinates, please check your internet connection"/>
+
+    <LinearLayout
+        android:id="@+id/trilateration_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/position_text_trilateration"
+            android:text="@string/label_trilateration"
+            android:textSize="20sp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/position_text_trilateration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            tools:text="(x: 100, y: 100)" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/weighted_centroids_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/position_text_weighted_centroids"
+            android:text="@string/label_weighted_centroid"
+            android:textSize="20sp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/position_text_weighted_centroids"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            tools:text="(x: 100, y: 100)" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/probability_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:labelFor="@id/position_text_probability"
+            android:text="@string/label_probability_based"
+            android:textSize="20sp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/position_text_probability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            tools:text="(x: 100, y: 100)" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/checkpoint_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="64dp"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/checkpoint_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="@string/action_checkpoint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:labelFor="@id/checkpoint_count"
+                android:text="@string/label_last_checkpoint"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/checkpoint_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="0" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,1507 @@
+[
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.568Z",
+    "rssi": -65,
+    "distance": 0.7943282347242815,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.946Z",
+    "rssi": -83,
+    "distance": 1.4125375446227544,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.423Z",
+    "rssi": -72,
+    "distance": 1.7782794100389228,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.412Z",
+    "rssi": -62,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.904Z",
+    "rssi": -64,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.395Z",
+    "rssi": -64,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.867Z",
+    "rssi": -65,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.848Z",
+    "rssi": -73,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.844Z",
+    "rssi": -66,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.330Z",
+    "rssi": -82,
+    "distance": 3.1622776601683795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.818Z",
+    "rssi": -71,
+    "distance": 3.1622776601683795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.321Z",
+    "rssi": -77,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.813Z",
+    "rssi": -72,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.301Z",
+    "rssi": -81,
+    "distance": 2.51188643150958,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.798Z",
+    "rssi": -79,
+    "distance": 2.51188643150958,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2D",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.288Z",
+    "rssi": -87,
+    "distance": 2.8183829312644537,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.566Z",
+    "rssi": -81,
+    "distance": 5.011872336272722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.062Z",
+    "rssi": -97,
+    "distance": 5.011872336272722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.552Z",
+    "rssi": -85,
+    "distance": 5.011872336272722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.956Z",
+    "rssi": -76,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.945Z",
+    "rssi": -80,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.421Z",
+    "rssi": -86,
+    "distance": 4.466835921509632,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.409Z",
+    "rssi": -82,
+    "distance": 4.466835921509632,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.902Z",
+    "rssi": -86,
+    "distance": 3.9810717055349722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.393Z",
+    "rssi": -83,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.882Z",
+    "rssi": -82,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.863Z",
+    "rssi": -76,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.359Z",
+    "rssi": -82,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.848Z",
+    "rssi": -91,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.348Z",
+    "rssi": -81,
+    "distance": 2.51188643150958,
+    "channel": 38
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.834Z",
+    "rssi": -80,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.817Z",
+    "rssi": -75,
+    "distance": 1.5848931924611136,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.319Z",
+    "rssi": -71,
+    "distance": 1.2589254117941673,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.810Z",
+    "rssi": -76,
+    "distance": 1.2589254117941673,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.299Z",
+    "rssi": -82,
+    "distance": 1.2589254117941673,
+    "channel": 37
+  },
+  {
+    "beacon_address": "00:CD:FF:0E:5E:B9",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.287Z",
+    "rssi": -76,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.070Z",
+    "rssi": -80,
+    "distance": 3.9810717055349722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.555Z",
+    "rssi": -89,
+    "distance": 3.9810717055349722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:02.458Z",
+    "rssi": -80,
+    "distance": 14.12537544622754,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.967Z",
+    "rssi": -81,
+    "distance": 14.12537544622754,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.950Z",
+    "rssi": -88,
+    "distance": 14.12537544622754,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.430Z",
+    "rssi": -82,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.919Z",
+    "rssi": -83,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.423Z",
+    "rssi": -78,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.403Z",
+    "rssi": -93,
+    "distance": 5.011872336272722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.890Z",
+    "rssi": -78,
+    "distance": 4.466835921509632,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.374Z",
+    "rssi": -89,
+    "distance": 1.5848931924611136,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.878Z",
+    "rssi": -89,
+    "distance": 1.2589254117941673,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.367Z",
+    "rssi": -79,
+    "distance": 0.31622776601683794,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.853Z",
+    "rssi": -80,
+    "distance": 0.31622776601683794,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.358Z",
+    "rssi": -80,
+    "distance": 0.31622776601683794,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.856Z",
+    "rssi": -79,
+    "distance": 0.31622776601683794,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.336Z",
+    "rssi": -82,
+    "distance": 0.7079457843841379,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.847Z",
+    "rssi": -70,
+    "distance": 0.7943282347242815,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.331Z",
+    "rssi": -68,
+    "distance": 0.7943282347242815,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.825Z",
+    "rssi": -52,
+    "distance": 0.8912509381337456,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.329Z",
+    "rssi": -56,
+    "distance": 1.1220184543019633,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.822Z",
+    "rssi": -56,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.305Z",
+    "rssi": -67,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.810Z",
+    "rssi": -63,
+    "distance": 1.1220184543019633,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E7",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.293Z",
+    "rssi": -62,
+    "distance": 0.22387211385683395,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.578Z",
+    "rssi": -76,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.069Z",
+    "rssi": -76,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.553Z",
+    "rssi": -78,
+    "distance": 3.548133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.966Z",
+    "rssi": -71,
+    "distance": 3.548133892335755,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.949Z",
+    "rssi": -70,
+    "distance": 2.8183829312644537,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.429Z",
+    "rssi": -71,
+    "distance": 2.2387211385683394,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.917Z",
+    "rssi": -73,
+    "distance": 2.2387211385683394,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.909Z",
+    "rssi": -82,
+    "distance": 2.8183829312644537,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.889Z",
+    "rssi": -87,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.373Z",
+    "rssi": -77,
+    "distance": 1.9952623149688795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.366Z",
+    "rssi": -68,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.852Z",
+    "rssi": -73,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.356Z",
+    "rssi": -81,
+    "distance": 1.9952623149688795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.854Z",
+    "rssi": -75,
+    "distance": 1.9952623149688795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.335Z",
+    "rssi": -64,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.845Z",
+    "rssi": -70,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.330Z",
+    "rssi": -82,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:07",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.328Z",
+    "rssi": -75,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.572Z",
+    "rssi": -60,
+    "distance": 1.1220184543019633,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.065Z",
+    "rssi": -74,
+    "distance": 0.7943282347242815,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.961Z",
+    "rssi": -70,
+    "distance": 0.7943282347242815,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.444Z",
+    "rssi": -65,
+    "distance": 0.7943282347242815,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.426Z",
+    "rssi": -64,
+    "distance": 0.7943282347242815,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.915Z",
+    "rssi": -70,
+    "distance": 1.4125375446227544,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.417Z",
+    "rssi": -68,
+    "distance": 2.8183829312644537,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.400Z",
+    "rssi": -68,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.885Z",
+    "rssi": -64,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.371Z",
+    "rssi": -65,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.871Z",
+    "rssi": -65,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.363Z",
+    "rssi": -64,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.849Z",
+    "rssi": -70,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.352Z",
+    "rssi": -73,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.848Z",
+    "rssi": -76,
+    "distance": 4.466835921509632,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.332Z",
+    "rssi": -76,
+    "distance": 4.466835921509632,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.839Z",
+    "rssi": -78,
+    "distance": 4.466835921509632,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.325Z",
+    "rssi": -74,
+    "distance": 4.466835921509632,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.823Z",
+    "rssi": -74,
+    "distance": 3.1622776601683795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.324Z",
+    "rssi": -82,
+    "distance": 3.1622776601683795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.818Z",
+    "rssi": -74,
+    "distance": 3.1622776601683795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.802Z",
+    "rssi": -81,
+    "distance": 3.548133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2C",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.290Z",
+    "rssi": -80,
+    "distance": 3.548133892335755,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.562Z",
+    "rssi": -83,
+    "distance": 7.079457843841379,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.059Z",
+    "rssi": -84,
+    "distance": 7.079457843841379,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.551Z",
+    "rssi": -85,
+    "distance": 7.079457843841379,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.954Z",
+    "rssi": -78,
+    "distance": 5.623413251903491,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.442Z",
+    "rssi": -89,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.944Z",
+    "rssi": -84,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.419Z",
+    "rssi": -83,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.407Z",
+    "rssi": -84,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.901Z",
+    "rssi": -83,
+    "distance": 1.2589254117941673,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.390Z",
+    "rssi": -81,
+    "distance": 0.7079457843841379,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.881Z",
+    "rssi": -89,
+    "distance": 0.7079457843841379,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.847Z",
+    "rssi": -77,
+    "distance": 1.1220184543019633,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.841Z",
+    "rssi": -68,
+    "distance": 1.1220184543019633,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.329Z",
+    "rssi": -68,
+    "distance": 1.1220184543019633,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.828Z",
+    "rssi": -68,
+    "distance": 1.1220184543019633,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.320Z",
+    "rssi": -67,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.816Z",
+    "rssi": -63,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.315Z",
+    "rssi": -64,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.807Z",
+    "rssi": -63,
+    "distance": 1.4125375446227544,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:3F:E4",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.286Z",
+    "rssi": -67,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.056Z",
+    "rssi": -66,
+    "distance": 1.7782794100389228,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.550Z",
+    "rssi": -62,
+    "distance": 1.7782794100389228,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.949Z",
+    "rssi": -72,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.441Z",
+    "rssi": -60,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.943Z",
+    "rssi": -62,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.415Z",
+    "rssi": -66,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.909Z",
+    "rssi": -69,
+    "distance": 1.2589254117941673,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.403Z",
+    "rssi": -69,
+    "distance": 2.2387211385683394,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.897Z",
+    "rssi": -84,
+    "distance": 3.1622776601683795,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.384Z",
+    "rssi": -66,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.877Z",
+    "rssi": -68,
+    "distance": 4.466835921509632,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.356Z",
+    "rssi": -65,
+    "distance": 5.623413251903491,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.846Z",
+    "rssi": -63,
+    "distance": 6.309573444801933,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.344Z",
+    "rssi": -66,
+    "distance": 12.589254117941675,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.837Z",
+    "rssi": -71,
+    "distance": 19.952623149688797,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.327Z",
+    "rssi": -74,
+    "distance": 19.952623149688797,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.824Z",
+    "rssi": -75,
+    "distance": 35.48133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.317Z",
+    "rssi": -79,
+    "distance": 35.48133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.813Z",
+    "rssi": -77,
+    "distance": 35.48133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.310Z",
+    "rssi": -86,
+    "distance": 35.48133892335755,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.803Z",
+    "rssi": -80,
+    "distance": 17.78279410038923,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.296Z",
+    "rssi": -88,
+    "distance": 17.78279410038923,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.793Z",
+    "rssi": -90,
+    "distance": 25.118864315095795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:20",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.282Z",
+    "rssi": -90,
+    "distance": 31.622776601683793,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.574Z",
+    "rssi": -67,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.067Z",
+    "rssi": -58,
+    "distance": 1.7782794100389228,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:02.457Z",
+    "rssi": -74,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.963Z",
+    "rssi": -69,
+    "distance": 1.4125375446227544,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.445Z",
+    "rssi": -69,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.948Z",
+    "rssi": -79,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.420Z",
+    "rssi": -76,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.401Z",
+    "rssi": -75,
+    "distance": 1.7782794100389228,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.887Z",
+    "rssi": -69,
+    "distance": 1.9952623149688795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.372Z",
+    "rssi": -63,
+    "distance": 3.1622776601683795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.874Z",
+    "rssi": -71,
+    "distance": 3.1622776601683795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.850Z",
+    "rssi": -70,
+    "distance": 3.1622776601683795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.354Z",
+    "rssi": -64,
+    "distance": 3.1622776601683795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.850Z",
+    "rssi": -74,
+    "distance": 5.011872336272722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.333Z",
+    "rssi": -70,
+    "distance": 7.943282347242816,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.840Z",
+    "rssi": -71,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.327Z",
+    "rssi": -72,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.820Z",
+    "rssi": -76,
+    "distance": 5.011872336272722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.805Z",
+    "rssi": -76,
+    "distance": 5.011872336272722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:2E",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.291Z",
+    "rssi": -79,
+    "distance": 5.011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.570Z",
+    "rssi": -78,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.063Z",
+    "rssi": -83,
+    "distance": 2.8183829312644537,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:02.454Z",
+    "rssi": -82,
+    "distance": 2.8183829312644537,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.959Z",
+    "rssi": -84,
+    "distance": 3.548133892335755,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.443Z",
+    "rssi": -84,
+    "distance": 3.548133892335755,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.947Z",
+    "rssi": -80,
+    "distance": 2.51188643150958,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.425Z",
+    "rssi": -76,
+    "distance": 3.1622776601683795,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.913Z",
+    "rssi": -75,
+    "distance": 2.51188643150958,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.414Z",
+    "rssi": -75,
+    "distance": 2.51188643150958,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.906Z",
+    "rssi": -77,
+    "distance": 1.7782794100389228,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.397Z",
+    "rssi": -70,
+    "distance": 0.28183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.884Z",
+    "rssi": -78,
+    "distance": 0.28183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.369Z",
+    "rssi": -77,
+    "distance": 0.28183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.869Z",
+    "rssi": -74,
+    "distance": 0.7079457843841379,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.361Z",
+    "rssi": -71,
+    "distance": 0.8912509381337456,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.849Z",
+    "rssi": -76,
+    "distance": 1.4125375446227544,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.350Z",
+    "rssi": -74,
+    "distance": 3.9810717055349722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.846Z",
+    "rssi": -54,
+    "distance": 3.9810717055349722,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.331Z",
+    "rssi": -52,
+    "distance": 3.9810717055349722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.837Z",
+    "rssi": -55,
+    "distance": 3.9810717055349722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.322Z",
+    "rssi": -63,
+    "distance": 3.9810717055349722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.822Z",
+    "rssi": -65,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.323Z",
+    "rssi": -69,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.815Z",
+    "rssi": -85,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.302Z",
+    "rssi": -78,
+    "distance": 1.9952623149688795,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:02",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.289Z",
+    "rssi": -80,
+    "distance": 1.9952623149688795,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.576Z",
+    "rssi": -74,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:07.068Z",
+    "rssi": -75,
+    "distance": 2.2387211385683394,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.964Z",
+    "rssi": -80,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.446Z",
+    "rssi": -65,
+    "distance": 0.6309573444801932,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.948Z",
+    "rssi": -73,
+    "distance": 0.5011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.428Z",
+    "rssi": -73,
+    "distance": 0.5011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.421Z",
+    "rssi": -88,
+    "distance": 0.5011872336272722,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.907Z",
+    "rssi": -87,
+    "distance": 1.5848931924611136,
+    "channel": 39
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.402Z",
+    "rssi": -70,
+    "distance": 1.5848931924611136,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.888Z",
+    "rssi": -73,
+    "distance": 1.5848931924611136,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.877Z",
+    "rssi": -58,
+    "distance": 1.5848931924611136,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.364Z",
+    "rssi": -62,
+    "distance": 1.9952623149688795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.851Z",
+    "rssi": -60,
+    "distance": 2.8183829312644537,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.355Z",
+    "rssi": -60,
+    "distance": 3.1622776601683795,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.852Z",
+    "rssi": -63,
+    "distance": 3.548133892335755,
+    "channel": 38
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.842Z",
+    "rssi": -70,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.328Z",
+    "rssi": -70,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.824Z",
+    "rssi": -72,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.326Z",
+    "rssi": -68,
+    "distance": 12.589254117941675,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.821Z",
+    "rssi": -77,
+    "distance": 10,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.304Z",
+    "rssi": -75,
+    "distance": 3.9810717055349722,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.807Z",
+    "rssi": -82,
+    "distance": 10,
+    "channel": 37
+  },
+  {
+    "beacon_address": "20:18:FF:00:40:08",
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.292Z",
+    "rssi": -76,
+    "distance": 10,
+    "channel": 39
+  }
+]

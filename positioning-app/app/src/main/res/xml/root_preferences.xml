@@ -1,0 +1,113 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/header_general">
+
+        <SwitchPreferenceCompat
+            app:key="@string/key_record_predicted_coordinates"
+            app:title="@string/title_record_predicted_coordinates" />
+
+        <ListPreference
+            app:key="@string/key_scan_period"
+            app:title="@string/title_scan_period"
+            app:defaultValue="500"
+            app:entries="@array/scan_period_entries"
+            app:entryValues="@array/scan_period_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="@string/key_record_fixed_number"
+            app:title="@string/title_record_fixed_number"
+            app:singleLineTitle="false" />
+
+        <ListPreference
+            app:key="@string/key_number_of_measurements"
+            app:title="@string/title_number_of_measurements"
+            app:defaultValue="100"
+            app:entries="@array/number_of_measurements_entries"
+            app:entryValues="@array/number_of_measurements_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <Preference
+            android:key="@string/key_delete_measurements"
+            android:title="@string/action_delete_measurements"
+            android:layout="@layout/red_preference_title" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/header_distance_estimation">
+
+        <ListPreference
+            app:key="@string/key_distance_model"
+            app:title="@string/title_distance_model"
+            app:defaultValue="path_loss"
+            app:entries="@array/distance_model_entries"
+            app:entryValues="@array/distance_model_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:key="@string/key_path_loss_exponent"
+            app:title="@string/title_path_loss_exponent"
+            app:defaultValue="2.0"
+            app:entries="@array/path_loss_exponent_entries"
+            app:entryValues="@array/path_loss_exponent_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:key="@string/key_distance_method"
+            app:title="@string/title_distance_method"
+            app:defaultValue="mean"
+            app:entries="@array/distance_method_entries"
+            app:entryValues="@array/distance_method_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="@string/key_dynamic_window"
+            app:title="@string/title_dynamic_window"
+            app:singleLineTitle="false" />
+
+        <SeekBarPreference
+            app:key="@string/key_window_size"
+            app:title="@string/title_window_size"
+            app:defaultValue="5"
+            app:min="1"
+            android:max="20"
+            app:showSeekBarValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/header_positioning">
+
+        <ListPreference
+            app:key="@string/key_positioning_method"
+            app:title="@string/title_positioning_method"
+            app:defaultValue="trilateration"
+            app:entries="@array/positioning_method_entries"
+            app:entryValues="@array/positioning_method_values"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:key="@string/key_weight_exponent"
+            app:title="@string/title_weight_exponent"
+            app:defaultValue="0.5"
+            app:entries="@array/weighted_centroid_entries"
+            app:entryValues="@array/weighted_centroid_values"
+            app:isPreferenceVisible="false"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:key="@string/key_pdf_sharpness"
+            app:title="@string/title_pdf_sharpness"
+            app:defaultValue="0.5"
+            app:entries="@array/pdf_sharpness_entries"
+            app:entryValues="@array/pdf_sharpness_values"
+            app:isPreferenceVisible="false"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="@string/key_allow_less_than_three_beacons"
+            app:title="@string/title_allow_less_than_three_beacons" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,145 @@
+<resources>
+    <string-array name="scan_period_entries">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="scan_period_values">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="number_of_measurements_entries">
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+
+    <string-array name="number_of_measurements_values">
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+
+    <!--  Distance estimation settings related arrays  -->
+    <string-array name="distance_model_entries">
+        <item>Log-distance path loss</item>
+        <item>Fitted average</item>
+        <item>Fitted line of sight (LOS)</item>
+        <item>Fitted no line of sight (NLOS)</item>
+    </string-array>
+
+    <string-array name="path_loss_exponent_entries">
+        <item>2.0</item>
+        <item>2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>2.4</item>
+        <item>2.5</item>
+        <item>2.6</item>
+        <item>2.7</item>
+        <item>2.8</item>
+        <item>2.9</item>
+        <item>3.0</item>
+        <item>3.1</item>
+        <item>3.2</item>
+        <item>3.3</item>
+        <item>3.4</item>
+        <item>3.5</item>
+    </string-array>
+
+    <string-array name="path_loss_exponent_values">
+        <item>2.0</item>
+        <item>2.1</item>
+        <item>2.2</item>
+        <item>2.3</item>
+        <item>2.4</item>
+        <item>2.5</item>
+        <item>2.6</item>
+        <item>2.7</item>
+        <item>2.8</item>
+        <item>2.9</item>
+        <item>3.0</item>
+        <item>3.1</item>
+        <item>3.2</item>
+        <item>3.3</item>
+        <item>3.4</item>
+        <item>3.5</item>
+    </string-array>
+
+    <string-array name="distance_model_values">
+        <item>path_loss</item>
+        <item>fitted_average</item>
+        <item>fitted_los</item>
+        <item>fitted_nlos</item>
+    </string-array>
+
+    <string-array name="distance_method_entries">
+        <item>Mean/average</item>
+        <item>Median</item>
+        <item>Mode</item>
+    </string-array>
+
+    <string-array name="distance_method_values">
+        <item>mean</item>
+        <item>median</item>
+        <item>mode</item>
+    </string-array>
+
+    <!--  Positioning settings related arrays  -->
+    <string-array name="positioning_method_entries">
+        <item>Trilateration</item>
+        <item>Weighted centroid</item>
+        <item>Probability-based</item>
+    </string-array>
+
+    <string-array name="positioning_method_values">
+        <item>trilateration</item>
+        <item>weighted_centroid</item>
+        <item>probability</item>
+    </string-array>
+
+    <string-array name="weighted_centroid_entries">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+
+    <string-array name="weighted_centroid_values">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+
+    <string-array name="pdf_sharpness_entries">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+
+    <string-array name="pdf_sharpness_values">
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+</resources>

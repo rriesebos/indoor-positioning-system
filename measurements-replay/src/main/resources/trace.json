@@ -1,0 +1,170 @@
+[
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.861Z",
+    "x": 270,
+    "y": 430,
+    "confidence": 0.25183289578627044
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.157Z",
+    "x": 870,
+    "y": 350,
+    "confidence": 0.2702928697723919
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.928Z",
+    "x": 730,
+    "y": 470,
+    "confidence": 0.2756158743000916
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.894Z",
+    "x": 450,
+    "y": 410,
+    "confidence": 0.3019831237158119
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.449Z",
+    "x": 850,
+    "y": 430,
+    "confidence": 0.31269723253535325
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.940Z",
+    "x": 410,
+    "y": 630,
+    "confidence": 0.3423664610769307
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.452Z",
+    "x": 850,
+    "y": 370,
+    "confidence": 0.19022919070636496
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.008Z",
+    "x": 870,
+    "y": 370,
+    "confidence": 0.28242073945737906
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.366Z",
+    "x": 430,
+    "y": 430,
+    "confidence": 0.2684385201427175
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.367Z",
+    "x": 370,
+    "y": 590,
+    "confidence": 0.26827518492299396
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.487Z",
+    "x": 850,
+    "y": 390,
+    "confidence": 0.29018292500306264
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:52.876Z",
+    "x": 250,
+    "y": 490,
+    "confidence": 0.293516092559444
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.349Z",
+    "x": 790,
+    "y": 610,
+    "confidence": 0.292985841806654
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.871Z",
+    "x": 370,
+    "y": 390,
+    "confidence": 0.2712216026972161
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:55.398Z",
+    "x": 470,
+    "y": 370,
+    "confidence": 0.29778404876742215
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.456Z",
+    "x": 930,
+    "y": 250,
+    "confidence": 0.29991677419171764
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:49.857Z",
+    "x": 910,
+    "y": 710,
+    "confidence": 0.22252072575070075
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.470Z",
+    "x": 830,
+    "y": 510,
+    "confidence": 0.3378713884059147
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:57.943Z",
+    "x": 790,
+    "y": 410,
+    "confidence": 0.2545606528433323
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.422Z",
+    "x": 470,
+    "y": 450,
+    "confidence": 0.2871686181436429
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:00.191Z",
+    "x": 810,
+    "y": 410,
+    "confidence": 0.297547283033254
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.936Z",
+    "x": 870,
+    "y": 230,
+    "confidence": 0.25708423972804856
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:49.335Z",
+    "x": 270,
+    "y": 430,
+    "confidence": 0.3045878885799899
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:05.577Z",
+    "x": 790,
+    "y": 230,
+    "confidence": 0.21196310404096305
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:50.340Z",
+    "x": 450,
+    "y": 430,
+    "confidence": 0.25033647235539497
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:06.620Z",
+    "x": 930,
+    "y": 430,
+    "confidence": 0.2602759208411485
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.933Z",
+    "x": 810,
+    "y": 450,
+    "confidence": 0.3176300842491257
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.388Z",
+    "x": 510,
+    "y": 390,
+    "confidence": 0.2864811195156016
+  }
+]

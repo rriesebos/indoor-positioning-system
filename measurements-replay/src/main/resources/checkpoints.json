@@ -1,0 +1,38 @@
+[
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:59.909Z",
+    "checkpoint": 6
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:54.813Z",
+    "checkpoint": 3
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:51.439Z",
+    "checkpoint": 1
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:58.214Z",
+    "checkpoint": 5
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:56.232Z",
+    "checkpoint": 4
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:01.926Z",
+    "checkpoint": 7
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:51:04.195Z",
+    "checkpoint": 8
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:49.136Z",
+    "checkpoint": 0
+  },
+  {
+    "system.totimestamp(timeuuid)": "2021-06-03T11:50:53.191Z",
+    "checkpoint": 2
+  }
+]
