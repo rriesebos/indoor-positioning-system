@@ -8,6 +8,8 @@ To run the back-end, [Docker](https://docs.docker.com/engine/install/) and [Dock
 
 To run the Android Application, [Android Studio](https://developer.android.com/studio) has to be installed and setup. When Android Studio is installed, simply open the _positioning-app_ directory as a new project, and update `BASE_URL` from [RetrofitClient.java](positioning-app/app/src/main/java/com/rriesebos/positioningapp/api/RetrofitClient.java) to the URL/IP corresponding to your instance of the Express API.
 
+To install the packages used for plotting, run `python -m pip install -r requirements.txt` from the _plotting_ directory.
+
 ## Architecture
 ![Architecture diagram](https://user-images.githubusercontent.com/27828755/129890337-2146636d-685f-472e-9d68-297773d42992.png)
 
