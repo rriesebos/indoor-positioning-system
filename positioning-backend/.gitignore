@@ -1,3 +1,6 @@
 .env
 cassandra/*
+!cassandra/cassandra-init.sh
+!cassandra/schema.cql
 mongodb/*
+!mongodb
