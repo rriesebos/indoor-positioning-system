@@ -73,7 +73,7 @@ Endpoint | Description
 There are two databases in which data send to the API is stored. A Cassandra database, and a MongoDB database.
 
 #### Cassandra database
-The Cassandra database is used to store time-series data. Specifically, the beacon measurements, predicted coordinates and checkpoint timestamps. These are stored in three separate tables. The beacon measurements are stored in the `measurements_by_beacon` table, which has the following schema:
+The Cassandra database is used to store time-series data. Specifically, the beacon measurements, predicted coordinates and checkpoint timestamps. These are stored in three separate tables. The schemas are defined in [schema.cql](positioning-backend/cassandra/schema.cql). The beacon measurements are stored in the `measurements_by_beacon` table, which has the following schema:
 ```
 CREATE TABLE IF NOT EXISTS beacons.measurements_by_beacon (
     beacon_address text,
@@ -106,4 +106,30 @@ CREATE TABLE IF NOT EXISTS positioning.checkpoint_timestamps (
 ```
 
 #### MongoDB database
-For the final component we have the MongoDB database. The MongoDB database has two so-called collections, one for the beacon information, and one for the points of interest. The beacon information consists of the beacon address (Bluetooth MAC address) serving as a unique identifier, the TX power (transmission power) and the beacon coordinates (x, y). The points of interest are defined by a name, description, coordinates and a radius.
+For the final component we have the MongoDB database. The MongoDB database has two so-called collections, one for the beacon information, and one for the points of interest. The beacon information consists of the beacon address (Bluetooth MAC address) serving as a unique identifier, the TX power (transmission power) and the beacon coordinates (x, y), as defined in [beacon.js](positioning-backend/positioning-server/models/beacon.js) by the following Mongoose schema:
+```
+const BeaconSchema = mongoose.Schema({
+    beaconAddress: { type: String, required: true, index: true, unique: true },
+    txPower: Number,
+    coordinates: {
+        x: { type: Number, required: true },
+        y: { type: Number, required: true }
+    }
+});
+```
+
+The points of interest are defined in [point-of-interest.js](positioning-backend/positioning-server/models/point-of-interest.js) by a name, description, coordinates and a radius:
+```
+const PointOfInterestSchema = mongoose.Schema({
+    name: { type: String, required: true },
+    description: String,
+    coordinates: {
+        type: {
+            x: { type: Number, required: true },
+            y: { type: Number, required: true }
+        },
+        required: true
+    },
+    radius: { type: Number, required: true }
+});
+```
