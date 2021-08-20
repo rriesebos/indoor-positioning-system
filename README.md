@@ -86,7 +86,7 @@ CREATE TABLE IF NOT EXISTS beacons.measurements_by_beacon (
     PRIMARY KEY ((beacon_address), timeuuid) )
     WITH CLUSTERING ORDER BY (timeuuid DESC);
 ```
-The predicted coordinates are stored in the \texttt{predicted\_coordinates} table, with the following schema:
+The predicted coordinates are stored in the `predicted_coordinates` table, with the following schema:
 ```
 CREATE TABLE IF NOT EXISTS positioning.predicted_coordinates (
     timeuuid timeuuid,
@@ -98,7 +98,7 @@ CREATE TABLE IF NOT EXISTS positioning.predicted_coordinates (
 ```
 As evident from the schema, the confidence indicator is stored together with the coordinates.
 
-Lastly, the checkpoint timestamps are stored in the \texttt{checkpoint\_timestamps} table, with the following schema:
+Lastly, the checkpoint timestamps are stored in the `checkpoint_timestamps` table, with the following schema:
 ```
 CREATE TABLE IF NOT EXISTS positioning.checkpoint_timestamps (
     timeuuid timeuuid,
