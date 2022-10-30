@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+title: >-
+  Smartphone-Based Real-Time Indoor Positioning Using BLE Beacons
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Robert
+    family-names: Riesebos
+    email: rriesebos@hotmail.com
+    orcid: 'https://orcid.org/0000-0001-8828-5159'
+    affiliation: >-
+      Bernoulli Institute for Mathematics, Computer
+      Science, and Artificial Intelligence,
+      University of Groningen
+  - given-names: Viktoriya
+    family-names: Degeler
+    email: v.o.degeler@uva.nl
+    affiliation: 'Informatics Institute, University of Amsterdam'
+    orcid: 'https://orcid.org/0000-0001-7054-3770'
+  - given-names: Andrés
+    family-names: Tello
+    email: andres.tello@rug.nl
+    orcid: 'https://orcid.org/0000-0003-1962-1440'
+    affiliation: >-
+      Bernoulli Institute for Mathematics, Computer
+      Science, and Artificial Intelligence,
+      University of Groningen
+identifiers:
+  - type: doi
+    value: 10.1109/CASE49997.2022.9926639
+repository-code: >-
+  https://github.com/rriesebos/indoor-positioning-system
+abstract: >-
+  To deal with the degraded performance of Global
+  Navigation Satellite Systems (GNSS) in indoor
+  environments, Indoor Positioning Systems (IPS) have
+  been developed. The rapid proliferation of
+  smartphones has led to many IPSs that utilize
+  positioning technologies that are readily available
+  on modern smartphones; including Bluetooth Low
+  Energy (BLE).Using radio signals such as BLE in
+  indoor environments comes with a number of
+  challenges that can limit the reliability of the
+  signal. In dealing with these challenges, most
+  existing BLE-based IPSs introduce undesired
+  drawbacks such as an extensive and fragile
+  calibration phase, strict hardware requirements,
+  and increases in the system’s complexity. In this
+  paper, an IPS is developed and evaluated that
+  requires minimal setup for indoor environments and
+  has a sufficiently low complexity to be run locally
+  on a modern smartphone. An extensive exploration of
+  the IPS’ parameters was performed. The best
+  performing parameter combinations resulted in a
+  median positioning error of 1.48 ± 0.283 meters,
+  while using the log-distance path loss model for
+  distance estimation and Weighted Centroid
+  Localization with a weight exponent be-tween 2.0
+  and 3.5 for position estimation.
