@@ -1,6 +1,4 @@
 # Indoor positioning system
-TODO: add link to paper.
-
 This repository contains four top-level directories: _measurements-replay_, _plotting_, _positioning-app_, and _positioning-backend_. The _measurements-replay_ directory contains the Java code used to explore different parameter combinations by replaying RSSI measurements. The _plotting_ directory contains all the experimental data, as well as the Python code used to process and plot this data. The _positioning-app_ directory contains the Java code for the Android Application, and the _positioning-backend_ directory contains the code for the Express RESTful API and the databases.
 
 ## Setup
